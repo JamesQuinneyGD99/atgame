@@ -1,0 +1,12 @@
+/target:library
+/nowarn:0169
+/out:Temp/Unity.PackageManagerUI.Editor.dll
+/debug:portable
+/optimize-
+/nostdlib+
+/preferreduilang:en-US
+/langversion:latest
+/reference:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.dll
+/reference:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.AIModule.dll
+/reference:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.ARModule.dll
+/reference:D:\Unity\Editor\Data\Managed/Unit
